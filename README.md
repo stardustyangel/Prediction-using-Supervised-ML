@@ -16,7 +16,7 @@ Predict the percentage of a student based on the no. of study hours.
 
 **Youtube video :** 
 
-**Linkedin post :**
+**Linkedin post :** [Click here](https://www.linkedin.com/posts/taissir-b-65480219b_linkedin-activity-7048397257578041344-rHaN?utm_source=share&utm_medium=member_desktop)
 
 
 
