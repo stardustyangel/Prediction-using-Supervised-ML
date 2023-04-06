@@ -12,9 +12,9 @@ Predict the percentage of a student based on the no. of study hours.
 
 **Model :** Simple Linear Regression model as it involves just 2 variables
 
-**Dataset :** http://bit.ly/w-data
+**Dataset :** [Click here](http://bit.ly/w-data)
 
-**Youtube video :** 
+**Youtube video :** [Click here](https://youtu.be/h_ekpzcDDJI)
 
 **Linkedin post :** [Click here](https://www.linkedin.com/posts/taissir-b-65480219b_linkedin-activity-7048397257578041344-rHaN?utm_source=share&utm_medium=member_desktop)
 
